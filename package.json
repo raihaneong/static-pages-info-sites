@@ -2,7 +2,7 @@
   "name": "static-pages-info-sites",
   "version": "1.0.0",
   "description": "",
-  "homepage": "https://raihaneong.github.io/react-static-info-pages`",
+  "homepage": "https://raihaneong.github.io/react-static-info-pages",
   "main": "index.js",
   "scripts": {
     "start": "react-scripts start",
