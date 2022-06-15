@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/raihaneong/react-scrimba-facts/static/css/main.1916b344.css",
+    "main.js": "/raihaneong/react-scrimba-facts/static/js/main.37432599.js",
+    "static/media/react-icon.png": "/raihaneong/react-scrimba-facts/static/media/react-icon.2a0cac33f155e4a27216.png",
+    "index.html": "/raihaneong/react-scrimba-facts/index.html",
+    "main.1916b344.css.map": "/raihaneong/react-scrimba-facts/static/css/main.1916b344.css.map",
+    "main.37432599.js.map": "/raihaneong/react-scrimba-facts/static/js/main.37432599.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1916b344.css",
+    "static/js/main.37432599.js"
+  ]
+}
