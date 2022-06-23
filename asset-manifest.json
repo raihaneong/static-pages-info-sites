@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/raihaneong/react-scrimba-facts/static/css/main.1916b344.css",
-    "main.js": "/raihaneong/react-scrimba-facts/static/js/main.37432599.js",
-    "static/media/react-icon.png": "/raihaneong/react-scrimba-facts/static/media/react-icon.2a0cac33f155e4a27216.png",
-    "index.html": "/raihaneong/react-scrimba-facts/index.html",
-    "main.1916b344.css.map": "/raihaneong/react-scrimba-facts/static/css/main.1916b344.css.map",
-    "main.37432599.js.map": "/raihaneong/react-scrimba-facts/static/js/main.37432599.js.map"
+    "main.css": "/static/css/main.1916b344.css",
+    "main.js": "/static/js/main.6d348b0e.js",
+    "static/media/react-icon.png": "/static/media/react-icon.2a0cac33f155e4a27216.png",
+    "index.html": "/index.html",
+    "main.1916b344.css.map": "/static/css/main.1916b344.css.map",
+    "main.6d348b0e.js.map": "/static/js/main.6d348b0e.js.map"
   },
   "entrypoints": [
     "static/css/main.1916b344.css",
-    "static/js/main.37432599.js"
+    "static/js/main.6d348b0e.js"
   ]
 }
